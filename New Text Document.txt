@@ -1,1 +1,2 @@
-https://www.w3schools.com/css/css_navbar.asp
+
+=IF(N3>=80,”4″,IF(N3>=75,”3.5″,IF(N3>=70,”3″, IF(N3>=65,”2.5″, IF(N3>=60,”2″, IF(N3>=55,”1.5″, IF(N3>=50,”1″, IF(N3<=49,”0″))))))))
