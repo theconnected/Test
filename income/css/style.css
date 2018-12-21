@@ -1,0 +1,27 @@
+.headline {
+			display: block;
+			margin: 5px 0 20px 0;
+			border-bottom: 1px dotted #eee;
+			}
+			.headline h2, 
+			.headline h3, 
+			.headline h4 {
+				color: #444;
+				margin: 0 0 -2px 0;
+				padding-bottom: 2px;
+				display: inline-block;
+				border-bottom: 2px solid #FF7E04;
+			}
+			.headline h2 {
+				font-size: 23px;
+			}
+
+			.headline-md h2 {
+				font-size: 21px;
+			}
+
+			.headline-md {
+				margin-bottom: 15px;
+			}
+			
+		
